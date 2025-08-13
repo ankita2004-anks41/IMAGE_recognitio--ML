@@ -1,6 +1,6 @@
 # IMAGE_recognitio--ML
 
-**Project Title: Vision AI in 5 Days: From Beginner to Image Recognition Expert.
+**Project Title: Vision AI: From Beginner to Image Recognition Expert.
 
 **Project Description:
 This project guides participants through building an image recognition model in Python
